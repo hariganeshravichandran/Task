@@ -1,0 +1,14 @@
+.main{
+  
+}
+.hi{
+    text-align: center;
+}
+.heading {
+    background-color: aqua;
+    display: flex;
+    justify-content: space-around;
+}
+.list{
+    background-color: blue;
+}

@@ -1,0 +1,9 @@
+table, th, td {
+  border:1px solid black;
+}
+
+.todos{
+  display: flex;
+  flex-direction: column;
+  gap:1em
+}
